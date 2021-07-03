@@ -1,0 +1,19 @@
+{
+  "name": "todoservice",
+  "version": "1.0.0",
+  "description": "test code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeevanPradeepR/TodoService.git"
+  },
+  "author": "Jeevan Pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeevanPradeepR/TodoService/issues"
+  },
+  "homepage": "https://github.com/JeevanPradeepR/TodoService#readme"
+}
